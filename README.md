@@ -6,7 +6,7 @@
 
 ## About
 
-GitHub Action to login against a Docker registry
+GitHub Action to login against a Docker registry.
 
 ![Screenshot](.github/docker-login.png)
 
