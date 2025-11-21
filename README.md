@@ -12,6 +12,8 @@ GitHub Action to login against a Docker registry.
 
 ___
 
+
+
 * [Usage](#usage)
   * [Docker Hub](#docker-hub)
   * [GitHub Container Registry](#github-container-registry)
